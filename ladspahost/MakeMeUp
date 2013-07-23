@@ -1,0 +1,1 @@
+g++ -o  host1   host1.cpp -L/usr/lib/x86_64-linux-gnu/ -lglibmm-2.4
